@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+<h1 align="center">Spotify Clone</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sobre o projeto
 
-## Available Scripts
+Este projeto consiste em uma réplica do webapp do Spotify, desenvolvida em ReactJS para o front-end e NodeJS + Express para o back-end. O objetivo era reproduzir a experiência de uso do Spotify, permitindo aos usuários ouvirem suas músicas e criarem playlists.
 
-In the project directory, you can run:
+Sistema de login, cadastro e edição do perfi do usuários. No front-end, foram usados componentes React para uma interface fluída e responsiva, junto com Bootstrap para estilização.
 
-### `npm start`
+No back-end, Node.js provê a API REST que se comunica com o banco de dados MongoDB para realizar as operações de CRUD de músicas, playlists e usuários.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este projeto em grupo me permitiu aplicar conhecimentos de full-stack e ganhar experiência no desenvolvimento de uma aplicação completa similar a serviços populares da web.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Layout
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Página incial ![paginainicial](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/home%20spotfy.png)
+- Cadastro ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151433.png)
+- Login ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20150306.png)
+- Menu ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151004.png)
+- Playlist ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151107.png)
+- Editar perfil ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151204.png)
+- Ajuda ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151332.png) ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151400.png)
+  
