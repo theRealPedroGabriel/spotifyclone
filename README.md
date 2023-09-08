@@ -1,6 +1,6 @@
-<h1 align="center">Spotify Clone</h1>
+<h1 align="center">Spotify Clone 🎵</h1>
 
-## Sobre o projeto
+## Sobre o projeto ❓
 
 Este projeto consiste em uma réplica do webapp do Spotify, desenvolvida em ReactJS para o front-end e NodeJS + Express para o back-end. O objetivo era reproduzir a experiência de uso do Spotify, permitindo aos usuários ouvirem suas músicas e criarem playlists.
 
@@ -10,7 +10,7 @@ No back-end, Node.js provê a API REST que se comunica com o banco de dados Mong
 
 Este projeto em grupo me permitiu aplicar conhecimentos de full-stack e ganhar experiência no desenvolvimento de uma aplicação completa similar a serviços populares da web.
 
-## Layout
+## Layout  🎨
 
 - Página incial ![paginainicial](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/home%20spotfy.png)
 - Cadastro ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151433.png)
@@ -19,4 +19,33 @@ Este projeto em grupo me permitiu aplicar conhecimentos de full-stack e ganhar e
 - Playlist ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151107.png)
 - Editar perfil ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151204.png)
 - Ajuda ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151332.png) ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151400.png)
+
+# Como executar o projeto
+
+## Back end
+
+```bash
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+node index.js
+```
+
+## Front end web
+Pré-requisitos: npm / yarn
+
+```bash
+# instalar dependências
+npm install
+
+# executar o projeto
+npm start
+```
+
+# Autor 😁
+
+**Pedro Gabriel S. M. de Castro** e amigos...
+
+https://www.linkedin.com/in/pedro-gabriel-14864a1a2/
   
