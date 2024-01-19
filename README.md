@@ -14,7 +14,11 @@ Este projeto em grupo me permitiu aplicar conhecimentos de full-stack e ganhar e
 
 - Página incial ![paginainicial](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/home%20spotfy.png)
 - Cadastro ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151433.png)
-- Login ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20150306.png)
+- Login 
+email
+"pedrin@gmail.com"
+senha
+"pedrin123" ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20150306.png)
 - Menu ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151004.png)
 - Playlist ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151107.png)
 - Editar perfil ![](https://github.com/theRealPedroGabriel/spotifyclone/blob/main/layout/Captura%20de%20tela%202023-09-07%20151204.png)
